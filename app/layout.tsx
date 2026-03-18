@@ -16,7 +16,7 @@ export const viewport: Viewport = {
 export const metadata: Metadata = {
   title: 'WTracker - Trading Journal',
   description: 'Track your trades and manage risk easily.',
-  manifest: '/manifest.json',
+  manifest: '/manifest.json?v=3',
   icons: {
     icon: '/icon-192x192.png',
     shortcut: '/icon-192x192.png',
