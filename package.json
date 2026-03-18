@@ -9,12 +9,9 @@
     "lint": "eslint"
   },
   "dependencies": {
-<<<<<<< HEAD
     "@supabase/auth-helpers-react": "^0.15.0",
     "@supabase/auth-ui-react": "^0.4.7",
     "@supabase/auth-ui-shared": "^0.1.8",
-=======
->>>>>>> 2f6738600b426a61be7aeb66bef458a96035c4b0
     "@supabase/supabase-js": "^2.98.0",
     "lucide-react": "^0.575.0",
     "next": "16.1.6",
